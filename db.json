@@ -1,0 +1,34 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
